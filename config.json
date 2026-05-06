@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "advanced-algorithms-python",
+      "title": "Advanced Algorithms in Python",
+      "description": "Implement sorting and searching algorithms with complexity analysis.",
+      "path": "assignments/advanced-algorithms-python",
+      "dueDate": "2026-05-13",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
